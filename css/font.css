@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'BKoodakBold';
+    src: url('../font/BKoodakBold.eot');
+    src: url('../font/BKoodakBold.eot?#iefix') format('embedded-opentype'),
+         url('../font/BKoodakBold.woff') format('woff'),
+         url('../font/BKoodakBold.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'BYekan';
+    src: url('../font/BYekan.eot');
+    src: url('../font/BYekan.eot?#iefix') format('embedded-opentype'),
+         url('../font/BYekan.woff') format('woff'),
+         url('../font/BYekan.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
